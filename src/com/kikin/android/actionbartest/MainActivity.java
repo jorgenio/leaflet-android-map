@@ -46,6 +46,8 @@ public class MainActivity extends SherlockActivity {
 	public boolean onCreateOptionsMenu(Menu menu) {
 		MenuInflater inflater = getSupportMenuInflater();
 		inflater.inflate(R.menu.maps, menu);
+		// TODO:on click append &map_id(name of the map)
+		
 		return super.onCreateOptionsMenu(menu);
 	}
 
