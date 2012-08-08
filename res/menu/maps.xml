@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/maps"
+          android:title="@string/maps"
+          android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/whiterun" android:title="@string/whiterun"/>
+            <item android:id="@+id/dawnstar" android:title="@string/dawnstar"/>
+            <item android:id="@+id/falkreath" android:title="@string/falkreath"/>
+            <item android:id="@+id/markarth" android:title="@string/markarth"/>
+            <item android:id="@+id/morthal" android:title="@string/morthal"/>
+            <item android:id="@+id/riften" android:title="@string/riften"/>
+            <item android:id="@+id/winterhold" android:title="@string/winterhold"/>
+        </menu>
+    </item>
+    <item android:id="@+id/filters"
+        android:title="@string/filters"
+        android:showAsAction="always">
+        <menu>
+            <item android:id="@+id/dragons" android:title="@string/dragons"/>
+        </menu>
+    </item>
+    
+
+</menu>

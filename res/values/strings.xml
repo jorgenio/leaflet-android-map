@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">ActionBarTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="whiterun">Whiterun</string>
+    <string name="maps">Maps</string>
+    <string name="dawnstar">Dawnstar</string>
+    <string name="filters">Filters</string>
+    <string name="dragons">Dragons</string>
+    <string name="falkreath">Falkreath</string>
+    <string name="markarth">Markarth</string>
+    <string name="morthal">Morthal</string>
+    <string name="riften">Riften</string>
+    <string name="winterhold">Winterhold</string>
+
+</resources>
