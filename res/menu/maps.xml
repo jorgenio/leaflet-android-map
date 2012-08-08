@@ -11,13 +11,7 @@
             <item android:id="@+id/morthal" android:title="@string/morthal"/>
             <item android:id="@+id/riften" android:title="@string/riften"/>
             <item android:id="@+id/winterhold" android:title="@string/winterhold"/>
-        </menu>
-    </item>
-    <item android:id="@+id/filters"
-        android:title="@string/filters"
-        android:showAsAction="always">
-        <menu>
-            <item android:id="@+id/dragons" android:title="@string/dragons"/>
+            <item android:id="@+id/skyrim" android:title="@string/skyrim"/>
         </menu>
     </item>
     

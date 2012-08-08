@@ -14,5 +14,14 @@
     <string name="morthal">Morthal</string>
     <string name="riften">Riften</string>
     <string name="winterhold">Winterhold</string>
+    <string name="dshines">Drangon Shines</string>
+    <string name="skyrim">Skyrim</string>
+    <string name="crafting">Crafting</string>
+    <string name="items">Items</string>
+    <string name="locations">Locations</string>
+    <string name="people">People</string>
+    <string name="standingstones">Standing Stones</string>
+    <string name="wordwalls">Word Walls</string>
+    <string name="test">This is a test</string>
 
 </resources>
